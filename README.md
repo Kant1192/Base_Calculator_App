@@ -1,3 +1,4 @@
 # Base Conversion App
-Unityを使った進数変換をするためだけのモバイル用アプリ  
-現在2進数 10進数 16進数のみしか対応していない  
+Unityを使った進数変換をするためだけのモバイル用アプリです。<br>
+[Google Play](https://play.google.com/store/apps/details?id=com.kariyagame.calculator)
+でリリース中です
